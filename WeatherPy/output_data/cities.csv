@@ -1,0 +1,6 @@
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+0,punta arenas,-53.15,-70.9167,1.06,86,0,0.0,CL,1678001129
+1,tilichiki,60.4667,166.1,-31.33,95,12,2.19,RU,1678001162
+2,pingliang,35.5392,106.6861,17.2,17,3,3.77,CN,1678000866
+3,mar del plata,-38.0023,-57.5575,19.49,89,40,1.54,AR,1678001163
+4,torbay,47.6666,-52.7314,-9.91,82,20,5.66,CA,1678001163
